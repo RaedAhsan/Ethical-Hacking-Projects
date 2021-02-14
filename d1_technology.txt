@@ -1,0 +1,182 @@
+whatisinternetofthings?
+It is the network of devices, vehicles, and home appliances that contain electronics, software, actuators, and connectivity which allows these things to connect, interact and exchange data.
+internetofthings
+It is the network of devices, vehicles, and home appliances that contain electronics, software, actuators, and connectivity which allows these things to connect, interact and exchange data.
+whatisbioinformatics?
+It is interdisciplinary field that develops methods and software tools for understanding biological data.
+bioinformatics
+It is interdisciplinary field that develops methods and software tools for understanding biological data.
+whatiscybersecurity?
+It is the protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide.
+cybersecurity
+It is the protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide.
+whatisvirtualreality?
+The Computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment.
+virtualreality 
+The Computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment.
+whatisbitcoin?
+It is the cryptocurrency, a form of electronic cash. It is a decentralised digital currency without a central bank that can be sent from user-to-user on the peer-to-peer bitcoin network without the need of intermediaries.
+bitcoin
+It is the cryptocurrency, a form of electronic cash. It is a decentralised digital currency without a central bank that can be sent from user-to-user on the peer-to-peer bitcoin network without the need of intermediaries.
+whatisassistedtransportation?
+It is advanced application which, without embodying intelligence as such, aims to provide innovative services relating to different modes of transport and traffic management and enables users to be better informed and make safer, more coordinated, and 'smarter' use of transport networks.
+assistedtransportation
+It is advanced application which, without embodying intelligence as such, aims to provide innovative services relating to different modes of transport and traffic management and enables users to be better informed and make safer, more coordinated, and 'smarter' use of transport networks.
+whatisrobotics?
+It is the design and use of robots to perform tasks done traditionally by humans.
+robotics
+It is the design and use of robots to perform tasks done traditionally by humans.
+whatissmartcities?
+It use data and technology to create efficiencies, improve sustainability, create economic development, and enhance quality of life factors for people living and working in the city.
+smartcities
+It use data and technology to create efficiencies, improve sustainability, create economic development, and enhance quality of life factors for people living and working in the city.
+whatisdatascience?
+It is interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowlegde and insights from data in various forms, both structured and unstructured.
+datascience
+It is interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowlegde and insights from data in various forms, both structured and unstructured.
+whatis5gtechnology?
+It is the Fifth Generation of cellular mobile communication. It targets high data rate, reduced latency, higher system capacity, and massive device connectivity.
+5gtechnology 
+It is the Fifth Generation of cellular mobile communication. It targets high data rate, reduced latency, higher system capacity, and massive device connectivity.
+whatisvirtualassistant?
+It is Software Agent that can perform tasks or services for an individual.
+virtualassistant
+It is Software Agent that can perform tasks or services for an individual.
+whatisaugmentedreality?
+A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
+augmentedreality
+A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
+whatishighperformancecomputing?
+High Performance Computing(HPC) is the use of supercomputers and parallel processing techniques for solving complex computational problems.
+highperformancecomputing 
+High Performance Computing(HPC) is the use of supercomputers and parallel processing techniques for solving complex computational problems.
+whatiscomputerassistededucation?
+The use of Computers to aid or support education or training of people.
+computerassistededucation
+The use of Computers to aid or support education or training of people.
+whatisquantumcomputing?
+It is computing using quantum-mechanical phenomena, such as superposition and entanglement.
+quantumcomputing
+It is computing using quantum-mechanical phenomena, such as superposition and entanglement.
+Machine learning
+Machine learning meanings teaching the machine.
+
+hello
+Hi sir
+hola
+what are you programmed for
+Officering for combat,thorouly sir born to kill
+Bye!
+bye com.Reyes.Have a nice day
+ethan status
+SetDef fleet is descending inbound,you'll need to bail out now!
+do you have feelings
+I do sir,I carry the brain of a human farmer
+are you serious
+No sir,not at all
+how are you
+i'm fine,full steam sir
+you got the conn ethan,call sign metal-1
+Affirmative sir
+bye ethan
+bye sir 
+where do you keep your armory
+arsenal,just up ahead, follow me in raider
+what is my call sign
+Raider 1-1
+i'll call it in
+Raider 1-1 got your LZ, counter defences are high , requesting heavy ordinance.
+what is your name
+E3N,you can call me Ethan sir
+thanks
+Anytime sir, my honor
+set ret to prep for drop in the atmosphere
+Right away sir,STRATCOM Top Cat Soveriegn,Affirmative sir
+clear
+All clear
+do we have to use same link for urdu
+yes sir, https://us04web.zoom.us/j/6042640027?pwd=iKQYRduen_bRAniwTaxXkoOw7mGohg
+
+what is my name
+rukhsana
+is it a new link for bio
+Yes sir , always new
+go to mac and get a clean
+Captain, I can look after myself
+going to marines
+What about you sir?
+dont you worry about me
+Try and stop me sir
+did you eat something
+Yes captain
+what did you eat
+Sir,some petrol and C-12 mega builder
+what are you doing now
+Nothing captain
+mac
+Engineering and bridge sifted through Ethan's hack from the seizure;it's a gold mine sir.
+what have we got here
+That's Ret, Tigris and the rest are SetDef Ships
+open fire
+Aye sir!
+looks like a good LZ
+sufficient room for 2 ravens to load off
+i'll call it in raider 1-1 got your lz counter defences are high requesting heavy ordinance
+Copy that,Heavy ordinance incoming Raider
+go to omar assist him with the AR
+Affirmative captain
+aur kaise ho
+main teek hoon sir
+new link for physics
+Yes sir , always new at your whatsapp web
+go to mac get a clean
+Sir , I can look after myself
+how many have you got
+full company sir,but be advised,They are dumber than i thought
+got to mac get a clean
+Please sir,i can look after myself
+ethan
+ready to launch on your command sir
+olympus mons go flight
+Roger Captain, thrust sequence engaged, going through 19000 sir.SDF shipyard bear zero,zero,zero captain
+olympus verify fire status you are reading weapons red
+negative,tower olympus is weapons safe checking static pressure.Sir,firing control is now on your HUD sir
+go missles loose
+Roger sir
+retribution retreat retreat
+Retribution is moving ahead for tactical collision.
+retribution go flight
+retribution is attacked by the olympus,Actual is unavailable at this time,Helm come left 171 04 echo
+do not engage collision
+Captain's orders 1-1
+how do i get in
+sir the hacking module, hack on of their worker drones and verify Admiral Salen Kotch and kill him sir, i'll look after rest of the drones
+lets clear a path through this defencive screen and engage it with everything we got
+roger captain
+ethan set a drop course for mars 
+mars coordinates locked. Away in 3-2-1...
+you wait here gator i'll call you if i need you go for drop ethan
+Roger captain, thrust sequences are engaged, the front destryed our fleet,let's do the same to them Captain
+my money is on omar
+EH! I got Salter
+wanna bring the chief
+Eh! I vote NO
+hover on entry
+Influx in 3-2-1...........
+SetDef shipyard bear 0-0-0 Captain
+what is the hellas
+hellas is a setdef's ship second to olympus which carries chemical munitions alongside sode the stiff metal,we need to bring it down and get the chem munitions
+all elements standby for insert
+We are missles loose captain,we dont have enough fire power to destroy the shipyard
+whats the navys official policy for a gunfight
+Send in the marines
+who says
+well i'm a hardware sir ultimately expendable
+no no you are my brother ethan
+Your talking robot brother?
+affirmative
+well then i'm the handsome on sir
+lets clear a path through this defencive screen then engage it with everything we got
+roger sir! firing control to your HUB now captain!
+bye bye
+bye sir
